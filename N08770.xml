@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:011208_0000_0F862C90CF895F08"/>
-            <pb facs="tcp:011208_0001_0F862C90F89BA360"/>
+            <pb facs="unknown:011208_0000_0F862C90CF895F08"/>
+            <pb facs="unknown:011208_0001_0F862C90F89BA360"/>
             <p>AN ADDRESS TO A Provincial BASHAW.</p>
             <p>O SHAME! where is thy Blush?</p>
             <p>BY A SON OF LIBERTY.</p>
@@ -124,7 +124,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:011208_0002_0F862C91AD513A10"/>
+            <pb facs="unknown:011208_0002_0F862C91AD513A10"/>
             <head>An ADDRESS, &amp;c.</head>
             <lg n="1">
                <head>1.</head>
@@ -149,7 +149,7 @@
                </l>
             </lg>
             <lg n="4">
-               <pb n="3" facs="tcp:011208_0003_0F862C926566B500"/>
+               <pb n="3" facs="unknown:011208_0003_0F862C926566B500"/>
                <head>4.</head>
                <l>When smother'd Rancour gnawing at the Heart,</l>
                <l>Is rob'd in Smiles, the Villain's worst disguise;</l>
@@ -178,7 +178,7 @@
                <l>And strips thee bare to everlasting Shame.</l>
             </lg>
             <lg n="8">
-               <pb n="4" facs="tcp:011208_0004_0F862C9328C76848"/>
+               <pb n="4" facs="unknown:011208_0004_0F862C9328C76848"/>
                <head>8.</head>
                <l>Think not, ah think not, with thy wonted Art,</l>
                <l>To foil stern Justice, in her vigorous Chace;</l>
@@ -207,7 +207,7 @@
                <l>To try the hazard of a damning Game?</l>
             </lg>
             <lg n="12">
-               <pb n="5" facs="tcp:011208_0005_0F862C94A1489588"/>
+               <pb n="5" facs="unknown:011208_0005_0F862C94A1489588"/>
                <head>12.</head>
                <l>Nay I will ask thee, did'st thou not aspire,</l>
                <l>Like Rome's fierce Tyrant nobly to destroy?</l>
@@ -236,7 +236,7 @@
                <l>Were doom'd the Martyrs of thy mean Deceit.</l>
             </lg>
             <lg n="16">
-               <pb n="6" facs="tcp:011208_0006_0F862C94AA682BB0"/>
+               <pb n="6" facs="unknown:011208_0006_0F862C94AA682BB0"/>
                <head>16.</head>
                <l>Tell me proud Villain! shameless as thou art!</l>
                <l>Now thine opprobrious Conduct taints the Air;</l>
@@ -265,7 +265,7 @@
                <l>And boldly bid Defiance to despair.</l>
             </lg>
             <lg n="20">
-               <pb n="7" facs="tcp:011208_0007_0F862C9564F05068"/>
+               <pb n="7" facs="unknown:011208_0007_0F862C9564F05068"/>
                <head>20.</head>
                <l>Can'st thou elaborate from the Mass of Crime,</l>
                <l>One Gem of Worth, or ought to Worth allied?</l>
@@ -294,7 +294,7 @@
                <l>Shall screen his Offspring from deserv'd Disgrace.</l>
             </lg>
             <lg n="24">
-               <pb n="8" facs="tcp:011208_0008_0F862C991D4D7318"/>
+               <pb n="8" facs="unknown:011208_0008_0F862C991D4D7318"/>
                <head>24.</head>
                <l>Hie thee, poor Tyrant! to that happy Goal,</l>
                <l>Where unsuccessful Malice may repose;</l>
